@@ -54,6 +54,7 @@ I'm Sivaa, an Undergraduate Computer Science Student at BITS Pilani 🎓
     <br/>
         <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaaB)](https://github.com/anuraghazra/github-readme-stats) 
         src="https://github-readme-stats.vercel.app/api?username=abxhr&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abxhr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abxhr&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abxhr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abxhr&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
   </div>
