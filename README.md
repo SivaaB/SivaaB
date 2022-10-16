@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 <img src="https://gpvc.arturio.dev/SivaaB" alt="profile views">
-I'm Sivaa, an Undergraduate Computer Science Student at BITS Pilani 🎓
+I'm Sivaa, an Undergraduate Computer Science Student at BITS Pilani. 🎓
 
 ## 🛠️ Skills and Technologies
 
