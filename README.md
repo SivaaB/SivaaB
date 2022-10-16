@@ -68,6 +68,7 @@ I'm Sivaa, an Undergraduate Computer Science Student at BITS Pilani 🎓
     <a href="https://wa.me/971552720655"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-1DA1F2?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/SivaaB/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/siv.xxa/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=7982e617-2ff7-4d7c-b6fd-cf1c469e50ae#/p/psn_profile/list?state=cam_224166fa8cbfc795e5252f9d9f0c351&cid=faecb682-5451-4596-a130-dbc67895ea2f&entry=psn_profile"><img alt="Playstation Account" title="Playstation Network" src="https://img.shields.io/badge/-Playstation-0A66C2?style=for-the-badge&logo=playstation&logoColor=white"/></a>
     <a href="https://open.spotify.com/user/31rr42yz36rvol3iqdjb6xezoztu"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DA1F2?style=for-the-badge&logo=Spotify&logoColor=white"/></a>
     
 </p>
