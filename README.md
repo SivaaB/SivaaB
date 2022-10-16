@@ -68,7 +68,7 @@ I'm Sivaa, an Undergraduate Computer Science Student at BITS Pilani 🎓
     <a href="https://wa.me/971552720655"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-1DA1F2?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/SivaaB/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/siv.xxa/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="mailto:mmailsivaa@gmail.com"><img alt="E-Mail"title="Mail" src="https://img.shields.io/badge/-Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white""/></a>
+    <a href="mailto:mmailsivaa@gmail.com"><img alt="Mail"title="Mail" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=gmail&logoColor=white""/></a>
     <a href="https://open.spotify.com/user/31rr42yz36rvol3iqdjb6xezoztu"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DA1F2?style=for-the-badge&logo=Spotify&logoColor=white"/></a>
     
 </p>
