@@ -46,7 +46,7 @@ I'm Sivaa, an Undergraduate Computer Science Student at BITS Pilani 🎓
 ## 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abxhr&theme=highcontrast"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SivaaB&theme=highcontrast"/>
 </div>
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
