@@ -39,7 +39,6 @@ The Cloud and DevOps niche has always fascinated me, apart from that I bike and 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SivaaB&theme=highcontrast"/>
 </div>
-<details> 
   <h4>💻 GitHub Profile Stats</h4>
   <div align="center">
     <br/>
