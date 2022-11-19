@@ -6,7 +6,7 @@
 My name is Sivaa, an Undergraduate Computer Science Student at BITS Pilani. 🎓👨🏾‍💻<br>
 The Cloud and DevOps niche has always fascinated me, apart from that I bike and play badminton in my free time. Let's connect. :) 🚴🏽🏸
 
-## 🛠️ Skills and Technologies
+## 🛠️ Skills and Technologies:
 
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
@@ -34,12 +34,12 @@ The Cloud and DevOps niche has always fascinated me, apart from that I bike and 
 ![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=000000)
 
 
-## 📊 My GitHub Statistics
+## 📊 My GitHub Statistics:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SivaaB&theme=highcontrast"/>
 </div>
-  <h4>💻 GitHub Profile Stats</h4>
+  <h4>💻 GitHub Profile Stats:</h4>
   <div align="center">
     <br/>
         <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaaB)](https://github.com/anuraghazra/github-readme-stats) 
@@ -52,7 +52,7 @@ The Cloud and DevOps niche has always fascinated me, apart from that I bike and 
 </details>
 
 
- ## 🙋🏽‍♂️ Connect with me
+ ## 🙋🏽‍♂️ Connect with me:
 
 <p align="center">
     <a href="https://wa.me/971552720655"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-1DA1F2?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
