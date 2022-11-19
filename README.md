@@ -39,7 +39,7 @@ The Cloud and DevOps niche has always fascinated me, apart from that I bike and 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SivaaB&theme=highcontrast"/>
 </div>
-  <h4>💻 GitHub Profile Stats:</h4>
+  <h3>💻 GitHub Profile Stats:</h3>
   <div align="center">
     <br/>
         <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaaB)](https://github.com/anuraghazra/github-readme-stats) 
