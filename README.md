@@ -53,7 +53,7 @@ The Cloud and DevOps niche has always fascinated me, apart from that I bike and 
 </details>
 
 
- ## 🙋‍♂️ Connect with me
+ ## 🙋🏽‍♂️ Connect with me
 
 <p align="center">
     <a href="https://wa.me/971552720655"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-1DA1F2?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
