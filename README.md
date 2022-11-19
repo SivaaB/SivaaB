@@ -4,7 +4,7 @@
 </h2>
 <img src="https://gpvc.arturio.dev/SivaaB" alt="profile views">
 My name is Sivaa, an Undergraduate Computer Science Student at BITS Pilani. 🎓👨🏾‍💻<br>
-The Cloud and DevOps niche has always fascinated me, apart from that I bike and play badminton in my free time. 🚴🏽🏸
+The Cloud and DevOps niche has always fascinated me, apart from that I bike and play badminton in my free time. 🚴🏽🏸<br>
 Let's connect, cheers. :) 
 
 ## 🛠️ Skills and Technologies:
