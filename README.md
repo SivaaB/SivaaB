@@ -33,7 +33,7 @@ Let's connect, cheers. :)
   <div align="center">
     <br/>
         <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivaaB)](https://github.com/anuraghazra/github-readme-stats) 
-        src="https://github-readme-stats.vercel.app/api?username=SivaaB&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+        src="https://github-readme-stats.vercel.app/api?username=SivaaB&count_private=true&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SivaaB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SivaaB&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SivaaB's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaaB&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
