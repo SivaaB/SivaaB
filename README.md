@@ -34,8 +34,8 @@ Let's connect, cheers. :)
   <summary>💻 GitHub Profile Stats</summary>
   <div align="center">
     <br/>
- <a href="https://github-readme-stats.vercel.app/api?username=SivaaB&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true"><img alt="SivaaB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SivaaB&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SivaaB's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaaB&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats%22%3E<img alt="SivaaB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SivaaB&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats%22%3E<img alt="SivaaB's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaaB&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
