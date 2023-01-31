@@ -36,6 +36,7 @@ Let's connect, cheers. :)
         src="https://github-readme-stats.vercel.app/api?username=SivaaB&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SivaaB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SivaaB&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SivaaB's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaaB&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <a href=[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)</a>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
