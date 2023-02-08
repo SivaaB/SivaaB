@@ -29,7 +29,7 @@ Let's connect, cheers. :)
 ![](https://img.shields.io/badge/Django-F7931E?style=flat-square&logo=django&logoColor=white&color=092E20)
 ![](https://img.shields.io/badge/Plotly-informational?style=flat-square&logo=Plotly&logoColor=white&color=3F4F75)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/AutoCad?style=flat-square&logo=AutoCad&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/AutoCad-informational?style=flat-square&logo=AutoCad&logoColor=white&color=0078D6)
 
 
 
