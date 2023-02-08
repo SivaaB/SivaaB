@@ -9,18 +9,24 @@ Let's connect, cheers. :)
 
 ## 🛠️ Skills and Technologies:
 
+
 ![](https://img.shields.io/badge/C++%20-%23525252.svg?logo=mega&logoColor=white)
-![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
-![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=Java&logoColor=white&color=007396)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Dart-informational?style=flat-sqaure&logo=Dart&logoColor=white)
-![](https://img.shields.io/badge/Markdown-informational?style=flat-sqaure&logo=Markdown&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC)
-![](https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4EAA25)
+![](https://img.shields.io/badge/C-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/SQL-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=CSS3&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Linux-Informational?style=flat-sqaure&logo=Dart&logoColor=white)
+![](https://img.shields.io/badge/Flask?style=flat-sqaure&logo=Markdown&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Git-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC)
+![](https://img.shields.io/badge/Github_Pages-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4EAA25)
+![](https://img.shields.io/badge/AutoCad?style=flat-sqaure&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=GitHub&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Figma-informational?style=flat-sqaure&logo=Vercel&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Adobe Photoshop-informational?style=flat-sqaure&logo=Heroku&logoColor=white&color=430098)
+
 
 <!-- source --> 
 
