@@ -31,10 +31,6 @@ Let's connect, cheers. :)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/AutoCad-informational?style=flat-square&logo=Autodesk&logoColor=white&color=0078D6)
 
-
-
-
-
 <!-- source, edit --> 
 
 ## 📊 My GitHub Statistics:
