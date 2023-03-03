@@ -59,5 +59,3 @@ Let's connect, cheers. :)
     <a href="mailto:mmailsivaa@gmail.com"><img alt="Mail"title="Mail" src="https://img.shields.io/badge/-Mail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white""/></a>
     <a href="https://open.spotify.com/user/31rr42yz36rvol3iqdjb6xezoztu"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DA1F2?style=for-the-badge&logo=Spotify&logoColor=white"/></a>
 </p>
-        
-![snake gif](https://github.com/SivaaB/SivaaB/blob/output/github-contribution-grid-snake.gif)
