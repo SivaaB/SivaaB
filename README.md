@@ -47,10 +47,10 @@ Let's connect, cheers. :)
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="SivaaB's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaaB&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
   </div>
-  <b>Disclaimer:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+  <b>Disclaimer:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.</em>
 </details>
 
- ## 🙋🏽‍♂️ Connect with me:
+ ## 🙋🏽‍♂️ Connect with me: 
 
 <p align="center">
     <a href="https://wa.me/971552720655"><img alt="WhatsApp" title="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-1DA1F2?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
