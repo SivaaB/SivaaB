@@ -8,8 +8,8 @@ My name is Sivaa, an Undergraduate Computer Science Student at BITS Pilani. 🎓
 The Cloud and DevOps niche have always fascinated me, apart from that I bike and play badminton in my free time. 🚴🏽🏸<br>
 Let's connect, cheers. :) 
 
-## 🛠️ Skills and Technologies:
 
+## 🛠️ Skills and Technologies:
 
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
@@ -33,14 +33,12 @@ Let's connect, cheers. :)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/AutoCad-informational?style=flat-square&logo=Autodesk&logoColor=white&color=0078D6)
 
-<!-- source, edit --> 
 
 ## 📊 My GitHub Statistics:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaaB&theme=highcontrast"/>
 </div>
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div align="center">
@@ -52,6 +50,7 @@ Let's connect, cheers. :)
   <b>Disclaimer:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.</em>
 </details>
 
+      
  ## 🙋🏽‍♂️ Connect with me: 
 
 <p align="center">
