@@ -25,7 +25,6 @@ Let's connect, cheers. :)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Flask-informational?style=flat-square&logo=Flask&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
-
 ![](https://img.shields.io/badge/AutoCad-informational?style=flat-square&logo=Autodesk&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Adobe_Photoshop-informational?style=flat-square&logo=AdobePhotoshop&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC)
