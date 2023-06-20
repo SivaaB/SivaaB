@@ -22,7 +22,6 @@ Let's connect, cheers. :)
 ![](https://img.shields.io/badge/Git-informational?style=flat-sqaure&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat-sqaure&logo=GitHub&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
-
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Flask-informational?style=flat-square&logo=Flask&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
