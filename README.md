@@ -3,8 +3,10 @@
     Welcome to Sivaa B's Profile! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-![visitors](https://profile-counter.glitch.me/chcheetah/count.svg?align=center)
-<img src="https://gpvc.arturio.dev/SivaaB" alt="profile views">
+
+
+<!--![visitors](https://profile-counter.glitch.me/sivaab/count.svg?align=center)-->
+<!--<img src="https://gpvc.arturio.dev/SivaaB" alt="profile views"> -->
 <img src= "https://komarev.com/ghpvc/?username=SivaaB&color=grey&style=for-the-badge" > 
 My name is Sivaa, an Undergraduate Computer Science Student at BITS Pilani. 🎓👨🏾‍💻<br>
 The Cloud and DevOps niche have always fascinated me, apart from that I bike and play badminton in my free time. 🚴🏽🏸<br>
